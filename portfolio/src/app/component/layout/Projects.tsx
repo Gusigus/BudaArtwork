@@ -1,3 +1,4 @@
 function Projects(){
-    return <div id="projects" className="flex justify-center items-center bg-gray-500 h-screen text-white"> About </div>
+    return <div id="Projects" className="flex justify-center items-center bg-bgblack h-screen text-white"> Projects </div>
 }
+export default Projects;
